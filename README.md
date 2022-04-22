@@ -1,5 +1,5 @@
 # Demographic-Inference-Literature
-A curated list of  demographic inference papers and their implementation.
+A curated list of  Twitter demographic inference papers and their implementation.
 
 
 | Year | Title | Venue | Paper | Code |
