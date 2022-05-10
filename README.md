@@ -5,6 +5,7 @@ A curated list of  Twitter demographic inference papers and their implementation
 | Year | Title | Venue | Paper | Code |
 | --- | --- |  --- |  --- | --- |
 | 2014 | **Developing Age and Gender Predictive Lexica over Social Media** | EMNLP 2014 | [Link](https://aclanthology.org/D14-1121/) | [Link](https://github.com/jtwool/TwitterGenderPredictor)|
+|2014 | **Estimating County Health Statistics with Twitter** | CHI 2014 | [Link](https://dl.acm.org/doi/abs/10.1145/2556288.2557139) | [Link](https://github.com/tapilab/twcounty) |
 | 2015 | **Twitter User Geolocation Using a Unified Text and Network Prediction Model** | ACL 2015 | [Link](https://aclanthology.org/P15-2104/) | [Link](https://github.com/afshinrahimi/geolocation)|
 | 2016 | **Predicting the demographics of twitter users from website traffic data** | JAIR 2016 | [Link](https://www.jair.org/index.php/jair/article/view/10984) | [Link](https://github.com/tapilab/jair-2016-demographics)|
 | 2017 | **Probabilistic Inference of Twitter Users' Age Based on What They Follow** | ECML/PKDD 2017 | [Link](https://link.springer.com/chapter/10.1007/978-3-319-71273-4_16) | [Link](https://github.com/melifluos/bayesian-age-detection)|
